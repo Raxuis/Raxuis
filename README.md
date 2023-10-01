@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **C, Python, Javascript and Ethical Hacking**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/raphrac/](https://www.linkedin.com/in/raphrac/)
-
 - ⚡ Fun fact : **My favorite series is Mr.Robot**
 
 <h3 align="left">Connect with me:</h3>
