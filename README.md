@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://twitter.com/i_haruki_i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="i_haruki_i" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/raphrac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raphrac" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/Haruki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="haruki" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/22539453/haruki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="haruki" height="30" width="40" /></a>
 <a href="https://instagram.com/raph_rclt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raph_rclt" height="30" width="40" /></a>
 </p>
 
