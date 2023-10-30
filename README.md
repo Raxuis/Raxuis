@@ -26,4 +26,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raxuis&show_icons=true&locale=en" alt="raxuis" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raxuis&"](https://github-readme-streak-stats.herokuapp.com?user=Raxuis&date_format=M%20j%5B%2C%20Y%5D)https://github-readme-streak-stats.herokuapp.com?user=Raxuis&date_format=M%20j%5B%2C%20Y%5D alt="raxuis" /></p>
+<a align="center" href="https://git.io/streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Raxuis&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
+
