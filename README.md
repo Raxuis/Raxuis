@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **my_portfolio**
 
-- 🌱 I’m currently learning **C, Python, Javascript and Ethical Hacking**
+- 🌱 I’m currently learning **HTML/CSS, Python, Javascript and Ethical Hacking**
 
-- ⚡ Fun fact : **My favorite series is Mr.Robot**
+- ⚡ Fun fact : **My favorite series is Mr.Robot and I own a Flipper Zero.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
