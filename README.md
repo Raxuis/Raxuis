@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raxuis&label=Profile%20views&color=0e75b6&style=flat" alt="raxuis" /> </p>
 
-- 🔭 I’m currently working on **my_portfolio**
+- 🔭 I’m currently working on **my portfolio**
 
 - 🌱 I’m currently learning **HTML/CSS, Python, Javascript and Ethical Hacking**
 
