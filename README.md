@@ -16,7 +16,6 @@
 <a href="https://twitter.com/i_haruki_i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="i_haruki_i" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/raphrac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raphrac" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22539453/haruki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="haruki" height="30" width="40" /></a>
-<a href="https://wanted.lol/Raxuis" target="blank"><img align="center" src="https://wanted.lol/logo.png" alt="haruki" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
