@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raxuis&label=Profile%20views&color=0e75b6&style=flat" alt="raxuis" /> </p>
 
-- 🔭 I’m currently working on [my_portfolio](https://portfolio-raphael-raxuis.vercel.app/)
+- 🔭 I’m currently working on [Rust](https://github.com/Raxuis/rust-learning)
 
-- 🌱 I’m currently learning **HTML/CSS, Python, Javascript and Ethical Hacking**
+- 🌱 I’m currently learning **HTML/CSS, Python, Javascript, Rust and Ethical Hacking**
 
 - ⚡ Fun fact : **My favorite series is Mr.Robot and I own a Flipper Zero.**
 
