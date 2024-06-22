@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raxuis&label=Profile%20views&color=0e75b6&style=flat" alt="raxuis" /> </p>
 
-- 🔭 I’m currently working on [Rust](https://github.com/Raxuis/rust-learning), [Golang](https://github.com/Raxuis/go-bank) and [TypeScript](https://www.typescriptlang.org/)
+- 🔭 I’m currently working on Angular, [Golang](https://github.com/Raxuis/go-bank) and [TypeScript](https://www.typescriptlang.org/)
 
-- 🌱 I’m currently learning **HTML/CSS, Python, Javascript, Rust, Golang and Ethical Hacking**
+- 🌱 I’m currently learning **Angular, React, Python, Javascript, TypeScript, Rust, Golang and Ethical Hacking**
 
 - ⚡ Fun fact : **My favorite series is Mr.Robot and I own a Flipper Zero.**
 
