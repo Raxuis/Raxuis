@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raxuis&label=Profile%20views&color=0e75b6&style=flat" alt="raxuis" /> </p>
 
-- 🔭 I’m currently working on Angular, [Golang](https://github.com/Raxuis/go-bank) and [TypeScript](https://www.typescriptlang.org/)
+- 🔭 I’m currently working on [Angular](https://github.com/Coda-First/angular-learning-raph), [Golang](https://github.com/Raxuis/go-bank) and [TypeScript](https://www.typescriptlang.org/)
 
 - 🌱 I’m currently learning **Angular, React, Python, Javascript, TypeScript, Rust, Golang and Ethical Hacking**
 
