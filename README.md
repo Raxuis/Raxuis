@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raxuis&label=Profile%20views&color=0e75b6&style=flat" alt="raxuis" /> </p>
 
-- 🚀 My latest project: LivreTrack – a sleek book 📚 progress tracker to keep your reading journey on point!
+- 🚀 My latest project: [LivreTrack](https://github.com/Raxuis/LivreTrack) – a sleek book 📚 progress tracker to keep your reading journey on point!
 
 - 🌱 I’m currently learning **Angular, React, Python, Javascript, TypeScript, Rust, Golang and Ethical Hacking**
 
