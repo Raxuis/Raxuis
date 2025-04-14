@@ -7,14 +7,14 @@
 
 - 🚀 My latest project: [LivreTrack](https://github.com/Raxuis/LivreTrack) – a sleek book 📚 progress tracker to keep your reading journey on point!
 
-- 🌱 I’m currently learning **Angular, React, Python, Javascript, TypeScript, Rust, Golang and Ethical Hacking**
+- 🌱 I’m currently learning **Angular, React, Nextjs, Rust, Golang and Ethical Hacking**
 
 - ⚡ Fun fact : **My favorite series is Mr.Robot and I own a Flipper Zero.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/i_haruki_i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="i_haruki_i" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/raphrac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raphrac" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/raphael-raclot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raphrac" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22539453/haruki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="haruki" height="30" width="40" /></a>
 </p>
 
