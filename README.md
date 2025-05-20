@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact : **My favorite series is Mr.Robot and I own a Flipper Zero.**
 
-- 🏋️ During my spare time I: **Play Basketball, Go to the gym, Code, Watch NBA, Watch F1**
+- 🏋️ During my spare time I: **Play Basketball, Go to the gym, Code, Watch NBA, Watch F1 and Read Books**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
