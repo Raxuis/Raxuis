@@ -6,17 +6,14 @@
 
 ## 👨‍💻 About Me
 
-- 🚀 Currently building:
-- **[Capybook](https://github.com/Raxuis/Capybook)** 📚🦫 *(Admin Dashboard in progress)* & **[ZenPourTous](https://github.com/Raxuis/zen-pour-tous)** 🧘 *– a meditation app*
+- 🚀 Currently building: **[Capybook](https://github.com/Raxuis/Capybook)** 📚🦫 *(Admin Dashboard in progress)*
+    & **[ZenPourTous](https://github.com/Raxuis/zen-pour-tous)** 🧘 *– a meditation app*
 
-- 🌱 Learning & exploring:  
-  `Angular`, `React`, `Next.js`, `Rust`, `Go`, `Ethical Hacking`
+- 🌱 Learning & exploring: `Angular`, `React`, `Next.js`, `Rust`, `Go`, `Ethical Hacking`
 
-- 🧠 Fun Fact:  
-  *I’m a huge fan of Mr. Robot and I own a Flipper Zero 🐬*
+- 🧠 Fun Fact: *I’m a huge fan of Mr. Robot and I own a Flipper Zero 🐬*
 
-- 🏀 Outside of coding:  
-  Basketball, Gym, Hacking, NBA, F1, Books
+- 🏀 Outside of coding: Basketball, Gym, Hacking, NBA, F1, Books
   
 ---
 
