@@ -1,29 +1,91 @@
+<!-- Banner -->
 ![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=250&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Rapha%C3%ABl+🇫🇷;A+passionate+full-stack+developer;A+green+hat+hacker+🎓)](https://git.io/typing-svg)
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/87af9a9fec730c94fc8b08eb21fa5ef6ab7831a67ba17bf8cc76696f6e4be1ef/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
 
+<!-- Typing intro -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=250&center=true&vCenter=true&random=false&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Rapha%C3%ABl+🇫🇷;A+passionate+full-stack+developer;A+green+hat+hacker+🎓)](https://git.io/typing-svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raxuis&label=Profile%20views&color=0e75b6&style=flat" alt="raxuis" /> </p>
+## 👨‍💻 About Me
 
-- 🚀 My latest projects : [Capybook](https://github.com/Raxuis/Capybook) 📕🦫 (Admin Dashboard Right Now 🤫) and [ZenPourTous](https://github.com/Raxuis/zen-pour-tous) 🧘‍♂️
+- 🚀 Currently building:
+- **[Capybook](https://github.com/Raxuis/Capybook)** 📚🦫 *(Admin Dashboard in progress)* & **[ZenPourTous](https://github.com/Raxuis/zen-pour-tous)** 🧘 *– a meditation app*
 
-- 🌱 I’m currently learning **Angular, React, Nextjs, Rust, Golang and Ethical Hacking**
+- 🌱 Learning & exploring:  
+  `Angular`, `React`, `Next.js`, `Rust`, `Go`, `Ethical Hacking`
 
-- ⚡ Fun fact : **My favorite series is Mr.Robot and I own a Flipper Zero.**
+- 🧠 Fun Fact:  
+  *I’m a huge fan of Mr. Robot and I own a Flipper Zero 🐬*
 
-- 🏋️ During my spare time I: **Play Basketball, Go to the Gym, Code, Watch NBA, Watch F1 and Read Books**
+- 🏀 Outside of coding:  
+  Basketball, Gym, Hacking, NBA, F1, Books
+  
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/i_haruki_i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="i_haruki_i" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/raphael-raclot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raphrac" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22539453/haruki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="haruki" height="30" width="40" /></a>
+## 🌐 Connect with Me
+
+<p>
+  <a href="https://twitter.com/i_haruki_i" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="30" title="Twitter" />
+  </a>
+  <a href="https://linkedin.com/in/raphael-raclot" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" title="LinkedIn" />
+  </a>
+  <a href="https://stackoverflow.com/users/22539453/haruki" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png" width="30" title="Stack Overflow" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.d52e9897.svg" alt="tailwind" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="nextjs" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a><a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a><a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a></p>
+---
 
-[![Raxuis's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Raxuis&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Raxuis&show_icons=true&locale=en&layout=compact&theme=merko&hide=c,html,Makefile,css,scss,mdx" alt="raxuis" /></p>
+## 🧰 Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raxuis&show_icons=true&locale=en&theme=merko" alt="raxuis" /></p>
+**Languages:**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+
+**Frameworks & Libraries:**  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Zustand](https://img.shields.io/badge/-Zustand-000000?style=flat&logo=react&logoColor=white)
+![Zod](https://img.shields.io/badge/-Zod-20232A?style=flat&logo=typescript&logoColor=white)
+
+**Tools & Platforms:**  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Raxuis&show_icons=true&theme=merko" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raxuis&layout=compact&theme=merko&hide=c,html,Makefile,css,scss,mdx" alt="Top Languages" />
+</p>
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Raxuis&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 🎯 Goals for 2025
+
+- 🚀 Launch Capybook & ZenPourTous
+- 🌍 Contribute to 2 open-source projects
+- 🧠 Deepen my skills in Rust & Go
+- 🔐 Get certified in cybersecurity (CEH or OSCP)
+- 💪 Stay consistent with fitness & meditation
+- ⭐ Reach 100+ GitHub stars on a personal project
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=raxuis&label=Profile%20views&color=0e75b6&style=flat" alt="raxuis" />
+</p>
