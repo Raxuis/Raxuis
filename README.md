@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-- 🚀 Currently building: **[Capybook](https://github.com/Raxuis/Capybook)** 📚🦫 *(Admin Dashboard in progress)*
+- 🚀 Currently building: **[Capybook](https://github.com/Raxuis/Capybook)** 📚🦫 *(Close to the end)*
     & **[ZenPourTous](https://github.com/Raxuis/zen-pour-tous)** 🧘 *– a meditation app*
 
 - 🌱 Learning & exploring: `Angular`, `React`, `Next.js`, `Rust`, `Go`, `Ethical Hacking`
