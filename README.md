@@ -1,5 +1,5 @@
 <!-- Banner -->
-![MasterHead](https://i.ibb.co/0yBWdnBj/Raphae-l-Raxuis-min.png)
+![MasterHead](/VERT_Raphaël-Raxuis-min.webp)
 
 <!-- Typing intro -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=250&center=true&vCenter=true&random=false&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Rapha%C3%ABl+🇫🇷;A+passionate+full-stack+developer;A+green+hat+hacker+🎓)](https://git.io/typing-svg)
