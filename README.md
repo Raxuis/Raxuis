@@ -7,8 +7,7 @@
 ## 👨‍💻 About Me
 
 - 🚀 Currently building: **[Pixora](https://github.com/Raxuis/Pixora)** ✈️🌍
-    & **[ZenPourTous](https://github.com/Raxuis/zen-pour-tous)** 🧘 *– a meditation app*
-
+    
 - 🌱 Learning & exploring: `Angular`, `React`, `Next.js`, `Rust`, `Go`, `Ethical Hacking`
 
 - 🧠 Fun Fact: *I’m a huge fan of Mr. Robot and I own a Flipper Zero 🐬*
