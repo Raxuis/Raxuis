@@ -72,13 +72,14 @@
 ---
 
 ## 🎯 Goals for 2025
-
-- 🚀 Launch Capybook & Pixora
-- 🌍 Contribute to 2 open-source projects
-- 🧠 Deepen my skills in Rust & Go
-- 🔐 Get certified in cybersecurity (CEH or OSCP)
-- 💪 Stay consistent with fitness & meditation
-- ⭐ Reach 100+ GitHub stars on a personal project
+| Goals                                                                | Status    |
+|--------------------------------------------------------------------- |-----------|
+| 🚀 Launch Capybook & Pixora                                          | ☐         |
+| 🌍 Contribute to 2 open-source projects                              | ☐         |
+| 🧠 Deepen my skills in Rust & Go                                     | ☐         |
+| 🔐 Get certified in cybersecurity (CEH or OSCP)                      | ☐         |
+| 💪 Stay consistent with fitness & meditation                         | ☑         |
+| ⭐ Reach 100+ GitHub stars on a personal project                     | ☐         |
 
 ---
 
