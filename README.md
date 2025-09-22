@@ -12,7 +12,7 @@
 
 - 🧠 Fun Fact: *I’m a huge fan of Mr. Robot and I own a Flipper Zero 🐬*
 
-- 🏀 Outside of coding: Basketball, Gym, Hacking, NBA, F1, Books
+- 🏀 Outside of coding: Basketball, Gym, Swimming, Climbing, Hacking, NBA, F1, Books
   
 ---
 
