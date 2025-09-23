@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-- 🚀 Currently building: **[Pixora](https://github.com/Raxuis/Pixora)** ✈️🌍
+- 🚀 Currently building: **[Pixora](https://github.com/Raxuis/Pixora)** ✈️🌍 & **[RaxuisCLI](https://github.com/Raxuis/RaxuisCLI)** 🛜🔎
     
 - 🌱 Learning & exploring: `Angular`, `React`, `Next.js`, `Rust`, `Go`, `Ethical Hacking`
 
