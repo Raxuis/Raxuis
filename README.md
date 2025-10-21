@@ -8,7 +8,7 @@
 
 - 🚀 Currently building: **[Pixora](https://github.com/Raxuis/Pixora)** ✈️🌍 & **[RaxuisCLI](https://github.com/Raxuis/RaxuisCLI)** 🛜🔎
     
-- 🌱 Learning & exploring: `Angular`, `Astro`, `React`, `Next.js`, `Rust`, `Go`, `Ethical Hacking`
+- 🌱 Learning & exploring: `Angular`, `Astro`, `React`, `Next.js`, `Rust`, `Go`, `Ethical Hacking`, `Korean 🇰🇷`
 
 - 🧠 Fun Fact: *I’m a huge fan of Mr. Robot and I own a Flipper Zero 🐬*
 
