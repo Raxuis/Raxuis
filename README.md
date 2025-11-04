@@ -74,7 +74,7 @@
 ## 🎯 Goals for 2025
 | Goals                                                                | Status    |
 |--------------------------------------------------------------------- |-----------|
-| 🚀 Launch [Capybook](https://capy-book.vercel.app/)                   | ☑         |
+| 🚀 Launch [Capybook](https://capybook.app/)                   | ☑         |
 | 🚀 Launch Pixora ✈️🌍                                                 | ☐         |
 | 🌍 Contribute to 2 open-source projects                              | ☐         |
 | 🧠 Deepen my skills in Rust & Go                                     | ☐         |
