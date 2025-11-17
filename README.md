@@ -6,7 +6,9 @@
 
 ## 👨‍💻 About Me
 
-- 🚀 Currently building: **[Pixora](https://github.com/Raxuis/Pixora)** ✈️🌍 & **[RaxuisCLI](https://github.com/Raxuis/RaxuisCLI)** 🛜🔎
+- 🚀 Currently building:
+    - **[Pixora](https://github.com/Raxuis/Pixora)** ✈️🌍
+    - **[RaxuisCLI](https://github.com/Raxuis/RaxuisCLI)** 🛜🔎
     
 - 🌱 Learning & exploring:
   - Web frameworks: `Angular`, `Astro`, `React`, `Next.js`
