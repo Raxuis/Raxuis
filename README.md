@@ -15,7 +15,9 @@
   - Systems & languages: `Rust`, `Go`
   - Other interests: `Ethical Hacking`, `Korean 🇰🇷`
 
-- 🧠 Fun Fact: *I’m a huge fan of `Mr. Robot` and I own a `Flipper Zero 🐬`*
+- 🧠 Fun Fact:
+    - *I’m a huge fan of `Mr. Robot`*
+    -  *I own a `Flipper Zero 🐬`*
 
 - 🏀 Outside of coding:
   - Team & competitive: `Basketball 🏀`, `NBA ⛹️`
