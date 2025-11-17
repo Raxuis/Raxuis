@@ -8,12 +8,18 @@
 
 - 🚀 Currently building: **[Pixora](https://github.com/Raxuis/Pixora)** ✈️🌍 & **[RaxuisCLI](https://github.com/Raxuis/RaxuisCLI)** 🛜🔎
     
-- 🌱 Learning & exploring: `Angular`, `Astro`, `React`, `Next.js`, `Rust`, `Go`, `Ethical Hacking`, `Korean 🇰🇷`
+- 🌱 Learning & exploring:
+  - Web frameworks: `Angular`, `Astro`, `React`, `Next.js`
+  - Systems & languages: `Rust`, `Go`
+  - Other interests: `Ethical Hacking`, `Korean 🇰🇷`
 
 - 🧠 Fun Fact: *I’m a huge fan of `Mr. Robot` and I own a `Flipper Zero 🐬`*
 
-- 🏀 Outside of coding: `Basketball 🏀`, `Gym 🏋️‍♂️`, `Swimming 🏊‍♂️`, `Running 🏃‍♂️`, `Cycling 🚴‍♂️`, `Climbing 🧗`, `Hacking 🏴‍☠️`, `NBA ⛹️`, `F1 🏎️`, `Books 📖`
-  
+- 🏀 Outside of coding:
+  - Team & competitive: `Basketball 🏀`, `NBA ⛹️`
+  - Fitness & outdoor: `Gym 🏋️‍♂️`, `Running 🏃‍♂️`, `Cycling 🚴‍♂️`, `Swimming 🏊‍♂️`, `Climbing 🧗`
+  - Hobbies & tinkering: `Hacking 🏴‍☠️`, hardware tinkering (Flipper Zero), etc.
+    
 ---
 
 ## 🌐 Connect with Me
