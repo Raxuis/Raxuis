@@ -81,15 +81,13 @@
 
 ---
 
-## 🎯 Goals for 2025
-| Goals                                                                | Status    |
-|--------------------------------------------------------------------- |-----------|
-| 🚀 Launch [Capybook](https://capybook.app/)                          | ☑         |
-| 🚀 Launch [Pixora](https://pixora.raphaelraclot.dev)                 | ☑         |
+## 🎯 Goals for 2026
+| Goals                                                                 | Status    |
+|-----------------------------------------------------------------------|-----------|
 | 🌍 Contribute to 2 open-source projects                              | ☐         |
-| 🧠 Deepen my skills in Rust & Go                                     | ☐         |
+| 🧠 Deepen my skills in Cybersecurity                                 | ☐         |
 | 🔐 Get certified in cybersecurity (CEH or OSCP)                      | ☐         |
-| 💪 Stay consistent with fitness & meditation                         | ☑         |
+| 💪 Stay consistent with fitness & meditation                         | ☐         |
 | ⭐ Reach 100+ GitHub stars on a personal project                     | ☐         |
 
 ---
