@@ -11,7 +11,7 @@
     - **[RaxuisCLI](https://github.com/Raxuis/RaxuisCLI)** 🛜🔎
     
 - 🌱 Learning & exploring:
-  - Web frameworks: `Angular`, `Astro`, `React`, `Next.js`
+  - Web frameworks: `Angular`, `Astro`, `React`, `Next.js`, `Spring`
   - Systems & languages: `Rust`, `Go`
   - Other interests: `Ethical Hacking`, `Korean 🇰🇷`
 
