@@ -95,3 +95,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=raxuis&label=Profile%20views&color=0e75b6&style=flat" alt="raxuis" />
 </p>
+
+[![Meditation Stats](https://floapp.life/api/v2/widget/raxuis.svg?theme=auto&size=large&period=1y&language=en&widgetType=activity-grid&showStreak=true&showTime=true&showBadges=true&showLegend=true&showStats=true)](https://floapp.life/profile/raxuis)
