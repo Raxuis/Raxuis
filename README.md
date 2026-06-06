@@ -84,6 +84,8 @@
 | 🔐 Get certified in cybersecurity (CEH or OSCP)                      | ☐         |
 | 💪 Stay consistent with fitness & meditation                         | ☐         |
 | ⭐ Reach 100+ GitHub stars on a personal project                     | ☐         |
+| 🇰🇷 Travel to Korea                                                   | ☑         |
+| 📷 Buy a Camera                                                      | ☑         |
 
 ---
 
