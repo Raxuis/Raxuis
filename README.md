@@ -72,11 +72,6 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raxuis&show_icons=true&theme=merko" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raxuis&layout=compact&theme=merko&hide=c,html,Makefile,css,scss,mdx" alt="Top Languages" />
-</p>
-
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Raxuis&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
