@@ -7,7 +7,7 @@
 ## 👨‍💻 About Me
 
 - 🚀 Currently building:
-    - **[RaxuisCLI](https://github.com/Raxuis/RaxuisCLI)** 🛜🔎
+    - **[Volumilo](https://github.com/Raxuis/volumilo)** 💾🔎
     
 - 🌱 Learning & exploring:
   - Web frameworks: `Angular`, `Astro`, `React`, `Next.js`, `Spring`
