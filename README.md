@@ -1,95 +1,27 @@
-<!-- Banner -->
-![MasterHead](/raxuis-banner.webp)
+<p align="center"><img src="./profile/generated/header.svg?v=01eeb3fbb9" width="100%" alt="raxuis — Full-stack developer &amp; product builder."></p>
 
-<!-- Typing intro -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=250&center=true&vCenter=true&random=false&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Rapha%C3%ABl+🇫🇷;A+passionate+full-stack+developer;A+green+hat+hacker+🎓)](https://git.io/typing-svg)
+<p align="center"><a href="https://floapp.life"><img src="./profile/generated/project-1.svg?v=01eeb3fbb9" width="49%" alt="Flo: Meditation, mood tracking, and healthier daily habits."></a> <a href="https://github.com/Raxuis/Capybook"><img src="./profile/generated/project-2.svg?v=01eeb3fbb9" width="49%" alt="Capybook: Track your reading progress, manage your books, and set reading goals."></a></p>
 
-## 👨‍💻 About Me
+<a href="https://github.com/Raxuis?tab=repositories"><img src="./profile/generated/repos.svg?v=01eeb3fbb9" width="100%" alt="ChaosProxy: HTTP-aware chaos proxy for frontend developers: per-route latency, errors, truncation and payload mutations, reproducible in CI.; RaxuisCLI: Offensive cybersecurity CLI toolkit in Go for pentesting, CTF, and security analysis: network recon, Active Directory attacks, web/TLS auditing, and crypto tooling.; stock-profiles: A project to get infos on stocks."></a>
 
-- 🚀 Currently building:
-    - **[Volumilo](https://github.com/Raxuis/volumilo)** 💾🔎
-    
-- 🌱 Learning & exploring:
-  - Web frameworks: `Angular`, `Astro`, `React`, `Next.js`, `Spring`
-  - Systems & languages: `Rust`, `Go`
-  - Other interests: `Ethical Hacking`, `Korean 🇰🇷`
+<img src="./profile/generated/goals.svg?v=01eeb3fbb9" width="100%" alt="2026 goals. Open: Contribute to 2 open-source projects; Open: Deepen my skills in cybersecurity; Open: Get certified in cybersecurity (CEH or OSCP); Open: Stay consistent with fitness &amp; meditation; Open: Reach 100+ GitHub stars on a personal project; Completed: Travel to Korea; Completed: Buy a camera">
 
-- 🧠 Fun Fact:
-    - *I’m a huge fan of `Mr. Robot`*
-    -  *I own a `Flipper Zero 🐬`*
+<img src="./profile/generated/outside-heading.svg?v=01eeb3fbb9" width="100%" alt="Outside of coding">
 
-- 🏀 Outside of coding:
-  - Team & competitive: `Basketball 🏀`, `NBA ⛹️`
-  - Fitness & outdoor: `Gym 🏋️‍♂️`, `Running 🏃‍♂️`, `Cycling 🚴‍♂️`, `Swimming 🏊‍♂️`, `Climbing 🧗`
-  - Hobbies & tinkering: `Hacking 🏴‍☠️`, hardware tinkering (Flipper Zero), etc.
-    
----
+<p align="center"><img src="./profile/generated/outside-photography.svg?v=01eeb3fbb9" width="49%" alt="Photography: Travel, light, and different perspectives."> <img src="./profile/generated/outside-basketball.svg?v=01eeb3fbb9" width="49%" alt="Basketball: On the court, or following the NBA."></p>
 
-## 🌐 Connect with Me
+<p align="center"><img src="./profile/generated/outside-movement.svg?v=01eeb3fbb9" width="49%" alt="Stay in motion: Gym, running, cycling, swimming &amp; climbing."> <img src="./profile/generated/outside-korean.svg?v=01eeb3fbb9" width="49%" alt="Learning Korean: One word at a time."></p>
 
-<p>
-  <a href="https://twitter.com/i_haruki_i" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="30" title="Twitter" />
-  </a>
-  <a href="https://linkedin.com/in/raphael-raclot" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" title="LinkedIn" />
-  </a>
-  <a href="https://stackoverflow.com/users/22539453/haruki" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png" width="30" title="Stack Overflow" />
-  </a>
-</p>
+<a href="https://github.com/Raxuis"><img src="./profile/generated/streak.svg?v=01eeb3fbb9" width="100%" alt="3523 contributions in the past year. Current streak 2 days; longest in this period 63 days. Updated 2026-11-06."></a>
 
----
+<a href="https://github.com/Raxuis"><img src="./profile/generated/stats.svg?v=01eeb3fbb9" width="100%" alt="8 stars on public non-fork repositories; 333 commits, 13 pull requests, 5 issues in the past year. Updated 2026-11-06."></a>
 
-## 🧰 Tech Stack
+<p align="center"><a href="https://raphaelraclot.dev"><img src="./profile/generated/link-1.svg?v=01eeb3fbb9" width="25%" alt="portfolio"></a><a href="https://www.instagram.com/itsraph_pics/"><img src="./profile/generated/link-2.svg?v=01eeb3fbb9" width="25%" alt="instagram"></a><a href="https://linkedin.com/in/raphael-raclot"><img src="./profile/generated/link-3.svg?v=01eeb3fbb9" width="25%" alt="linkedin"></a><a href="mailto:raxuis@proton.me"><img src="./profile/generated/link-4.svg?v=01eeb3fbb9" width="25%" alt="email"></a></p>
 
-**Languages:**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+<hr>
 
-**Frameworks & Libraries:**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Zustand](https://img.shields.io/badge/-Zustand-000000?style=flat&logo=react&logoColor=white)
-![Zod](https://img.shields.io/badge/-Zod-20232A?style=flat&logo=typescript&logoColor=white)
+## Widgets
 
-**Tools & Platforms:**  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+<p align="center"><a href="https://floapp.life/profile/raxuis"><img src="https://floapp.life/api/v2/widget/raxuis.svg?theme=auto&amp;size=large&amp;period=1y&amp;language=en&amp;widgetType=activity-grid&amp;showStreak=true&amp;showTime=true&amp;showBadges=true&amp;showLegend=true&amp;showStats=true" width="100%" alt="Flo meditation activity and statistics for raxuis"></a></p>
 
----
-
-## 📊 GitHub Stats
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Raxuis&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## 🎯 Goals for 2026
-| Goals                                                                 | Status    |
-|-----------------------------------------------------------------------|-----------|
-| 🌍 Contribute to 2 open-source projects                              | ☐         |
-| 🧠 Deepen my skills in Cybersecurity                                 | ☐         |
-| 🔐 Get certified in cybersecurity (CEH or OSCP)                      | ☐         |
-| 💪 Stay consistent with fitness & meditation                         | ☐         |
-| ⭐ Reach 100+ GitHub stars on a personal project                     | ☐         |
-| 🇰🇷 Travel to Korea                                                   | ☑         |
-| 📷 Buy a Camera                                                      | ☑         |
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=raxuis&label=Profile%20views&color=0e75b6&style=flat" alt="raxuis" />
-</p>
-
-[![Meditation Stats](https://floapp.life/api/v2/widget/raxuis.svg?theme=auto&size=large&period=1y&language=en&widgetType=activity-grid&showStreak=true&showTime=true&showBadges=true&showLegend=true&showStats=true)](https://floapp.life/profile/raxuis)
+<p align="center"><a href="https://github.com/Raxuis"><img src="https://komarev.com/ghpvc/?username=raxuis&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="GitHub profile views for raxuis"></a></p>
