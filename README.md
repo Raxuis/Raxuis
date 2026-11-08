@@ -1,22 +1,22 @@
-<p align="center"><img src="./profile/generated/header.svg?v=3c51abf8d3" width="100%" alt="raxuis — Full-stack developer &amp; product builder."></p>
+<p align="center"><img src="./profile/generated/header.svg?v=043a8d7c24" width="100%" alt="raxuis — Full-stack developer &amp; product builder."></p>
 
-<p align="center"><a href="https://floapp.life"><img src="./profile/generated/project-1.svg?v=3c51abf8d3" width="49%" alt="Flo: Meditation, mood tracking, and healthier daily habits."></a> <a href="https://github.com/Raxuis/Capybook"><img src="./profile/generated/project-2.svg?v=3c51abf8d3" width="49%" alt="Capybook: Track your reading progress, manage your books, and set reading goals."></a></p>
+<p align="center"><a href="https://floapp.life"><img src="./profile/generated/project-1.svg?v=043a8d7c24" width="49%" alt="Flo: Meditation, mood tracking, and healthier daily habits."></a> <a href="https://github.com/Raxuis/Capybook"><img src="./profile/generated/project-2.svg?v=043a8d7c24" width="49%" alt="Capybook: Track your reading progress, manage your books, and set reading goals."></a></p>
 
-<a href="https://github.com/Raxuis?tab=repositories"><img src="./profile/generated/repos.svg?v=3c51abf8d3" width="100%" alt="ChaosProxy: HTTP-aware chaos proxy for frontend developers: per-route latency, errors, truncation and payload mutations, reproducible in CI.; RaxuisCLI: Offensive cybersecurity CLI toolkit in Go for pentesting, CTF, and security analysis: network recon, Active Directory attacks, web/TLS auditing, and crypto tooling.; stock-profiles: A project to get infos on stocks."></a>
+<a href="https://github.com/Raxuis?tab=repositories"><img src="./profile/generated/repos.svg?v=043a8d7c24" width="100%" alt="ChaosProxy: HTTP-aware chaos proxy for frontend developers: per-route latency, errors, truncation and payload mutations, reproducible in CI.; RaxuisCLI: Offensive cybersecurity CLI toolkit in Go for pentesting, CTF, and security analysis: network recon, Active Directory attacks, web/TLS auditing, and crypto tooling.; stock-profiles: A project to get infos on stocks."></a>
 
-<img src="./profile/generated/goals.svg?v=3c51abf8d3" width="100%" alt="2026 goals. Open: Contribute to 2 open-source projects; Open: Deepen my skills in cybersecurity; Open: Get certified in cybersecurity (CEH or OSCP); Open: Stay consistent with fitness &amp; meditation; Open: Reach 100+ GitHub stars on a personal project; Completed: Travel to Korea; Completed: Buy a camera">
+<img src="./profile/generated/goals.svg?v=043a8d7c24" width="100%" alt="2026 goals. Open: Contribute to 2 open-source projects; Open: Deepen my skills in cybersecurity; Open: Get certified in cybersecurity (CEH or OSCP); Open: Stay consistent with fitness &amp; meditation; Open: Reach 100+ GitHub stars on a personal project; Completed: Travel to Korea; Completed: Buy a camera">
 
-<img src="./profile/generated/outside-heading.svg?v=3c51abf8d3" width="100%" alt="Outside of coding">
+<img src="./profile/generated/outside-heading.svg?v=043a8d7c24" width="100%" alt="Outside of coding">
 
-<p align="center"><img src="./profile/generated/outside-photography.svg?v=3c51abf8d3" width="49%" alt="Photography: Travel, light, and different perspectives."> <img src="./profile/generated/outside-basketball.svg?v=3c51abf8d3" width="49%" alt="Basketball: On the court, or following the NBA."></p>
+<p align="center"><img src="./profile/generated/outside-photography.svg?v=043a8d7c24" width="49%" alt="Photography: Travel, light, and different perspectives."> <img src="./profile/generated/outside-basketball.svg?v=043a8d7c24" width="49%" alt="Basketball: On the court, or following the NBA."></p>
 
-<p align="center"><img src="./profile/generated/outside-movement.svg?v=3c51abf8d3" width="49%" alt="Stay in motion: Gym, running, cycling, swimming &amp; climbing."> <img src="./profile/generated/outside-korean.svg?v=3c51abf8d3" width="49%" alt="Learning Korean: One word at a time."></p>
+<p align="center"><img src="./profile/generated/outside-movement.svg?v=043a8d7c24" width="49%" alt="Stay in motion: Gym, running, cycling, swimming &amp; climbing."> <img src="./profile/generated/outside-korean.svg?v=043a8d7c24" width="49%" alt="Learning Korean: One word at a time."></p>
 
-<a href="https://github.com/Raxuis"><img src="./profile/generated/streak.svg?v=3c51abf8d3" width="100%" alt="3536 contributions in the past year. Current streak 3 days; longest in this period 63 days. Updated 2026-11-07."></a>
+<a href="https://github.com/Raxuis"><img src="./profile/generated/streak.svg?v=043a8d7c24" width="100%" alt="3536 contributions in the past year. Current streak 3 days; longest in this period 63 days. Updated 2026-11-08."></a>
 
-<a href="https://github.com/Raxuis"><img src="./profile/generated/stats.svg?v=3c51abf8d3" width="100%" alt="8 stars on public non-fork repositories; 336 commits, 13 pull requests, 5 issues in the past year. Updated 2026-11-07."></a>
+<a href="https://github.com/Raxuis"><img src="./profile/generated/stats.svg?v=043a8d7c24" width="100%" alt="8 stars on public non-fork repositories; 336 commits, 13 pull requests, 5 issues in the past year. Updated 2026-11-08."></a>
 
-<p align="center"><a href="https://raphaelraclot.dev"><img src="./profile/generated/link-1.svg?v=3c51abf8d3" width="25%" alt="portfolio"></a><a href="https://www.instagram.com/itsraph_pics/"><img src="./profile/generated/link-2.svg?v=3c51abf8d3" width="25%" alt="instagram"></a><a href="https://linkedin.com/in/raphael-raclot"><img src="./profile/generated/link-3.svg?v=3c51abf8d3" width="25%" alt="linkedin"></a><a href="mailto:raxuis@proton.me"><img src="./profile/generated/link-4.svg?v=3c51abf8d3" width="25%" alt="email"></a></p>
+<p align="center"><a href="https://raphaelraclot.dev"><img src="./profile/generated/link-1.svg?v=043a8d7c24" width="25%" alt="portfolio"></a><a href="https://www.instagram.com/itsraph_pics/"><img src="./profile/generated/link-2.svg?v=043a8d7c24" width="25%" alt="instagram"></a><a href="https://linkedin.com/in/raphael-raclot"><img src="./profile/generated/link-3.svg?v=043a8d7c24" width="25%" alt="linkedin"></a><a href="mailto:raxuis@proton.me"><img src="./profile/generated/link-4.svg?v=043a8d7c24" width="25%" alt="email"></a></p>
 
 <hr>
 
