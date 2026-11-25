@@ -106,10 +106,6 @@
     "year": 2026,
     "items": [
       {
-        "label": "Contribute to 2 open-source projects",
-        "done": false
-      },
-      {
         "label": "Deepen my skills in cybersecurity",
         "done": false
       },
@@ -124,6 +120,10 @@
       {
         "label": "Reach 100+ GitHub stars on a personal project",
         "done": false
+      },
+      {
+        "label": "Contribute to 2 open-source projects",
+        "done": true
       },
       {
         "label": "Travel to Korea",
